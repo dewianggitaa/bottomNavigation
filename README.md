@@ -1,5 +1,5 @@
-## Bottom Navigation
-# Anggota Kelompok :
+# Bottom Navigation
+## Anggota Kelompok :
 1. Arih Adilah Hasan (1217050022)
 2. Dewi Anggita Yulianti (1217050035)
 3. Dinar Rizki Helmalia (1217050042)
