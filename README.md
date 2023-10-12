@@ -12,6 +12,20 @@
 4. Spotify
 5. Dana
 
+Contoh APK yang menggunakan Drawer Navigation:
+1. Email
+2. Discord
+3. Quran.com
+4. G Drive
+5. Telegram
+
+Contoh APK yang menggunakan Tab Navigation:
+1. Wa
+2. Telegram
+3. X
+4. By.U
+5. Pinterest
+
 ### Screenshot tampilan Bottom Navigation:
 <img width="960" alt="Home" src="https://github.com/dewianggitaa/bottomNavigation/assets/95553640/fab896e3-a6a9-45c5-bb8b-6114bb3e60a7">
 <img width="960" alt="message" src="https://github.com/dewianggitaa/bottomNavigation/assets/95553640/ede1bcca-7c28-45ae-a183-0ac9210fe8cc">
